@@ -17,8 +17,6 @@
 
 ### Блок схема алгоритма решения задачи
 
-![блок схема](img/GB.jpeg)
-
 Ознакомиться с [Блок схемой решения задачи](https://drive.google.com/file/d/132ZJP340mMqJiIMlXdVd7xZuj0OJSjg1/view?usp=share_link) по ссылке.
 
 ### Описание решения задачи

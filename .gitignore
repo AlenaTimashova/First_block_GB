@@ -1,3 +1,4 @@
 .jpeg
-.obj
-.bin
+obj/
+bin/
+img/
